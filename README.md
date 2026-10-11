@@ -3,7 +3,7 @@ A bot that lets you do manualescape without having to install python (great for 
 
 <h2>Dependencies</h2>
 Run this command in your terminal to download and install dependencies:
-```python3 -m pip install python-dotenv protobuf requests google discord.py```
+`python3 -m pip install python-dotenv protobuf requests google discord.py`
 -# Note: Depending on what OS/distro you are using, you may have to use **python** or **py** instead of python3.
 
 <h2>Setting everything up</h2>
