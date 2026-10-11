@@ -13,6 +13,7 @@ intents = discord.Intents.default()
 bot = commands.Bot(command_prefix="!", intents=intents)
 
 # what servers to sync in because global sync is slow
+# i made it global sync anyways because it wasnt working
 GUILD_IDS = [
      1541255195437170840,
      1375357349425971231,
