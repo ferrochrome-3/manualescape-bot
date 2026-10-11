@@ -86,4 +86,4 @@ data.ParseFromString(response.content)
 if data.error_message:
     sys.exit(f"policy fetch error: {data.error_message}")
 
-print(f"successfully unenrolled device {serial_number}")
+print(f"Successfully unenrolled device {serial_number}!")
